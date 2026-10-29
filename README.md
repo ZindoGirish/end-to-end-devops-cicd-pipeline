@@ -115,7 +115,7 @@ This project demonstrates a practical approach to integrating CI/CD automation, 
 ## Project Screenshots
 
 ### GitHub Actions CI/CD Pipeline
-![GitHub Actions Pipeline](screenshots/github-actions-pipeline.png)
+![GitHub Actions Pipeline](screenshots/github-actions-pipeline.png.png)
 
 ### SonarQube Dashboard
 ![SonarQube Dashboard](screenshots/sonarqube-dashboard.png)
