@@ -111,3 +111,11 @@ This project demonstrates a practical approach to integrating CI/CD automation, 
 **Project Type:** DevOps / CI/CD / Cloud & Containerization
 
 **Status:** Update this field to reflect whether the pipeline is completed, in progress, or partially implemented.
+
+## Project Screenshots
+
+### GitHub Actions CI/CD Pipeline
+![GitHub Actions Pipeline](screenshots/github-actions-pipeline.png)
+
+### SonarQube Dashboard
+![SonarQube Dashboard](screenshots/sonarqube-dashboard.png)
